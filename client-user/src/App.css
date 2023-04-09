@@ -1,0 +1,26 @@
+@import "~mdb-ui-kit/css/mdb.min.css";
+
+/* CSS CUSTOM */
+
+.btn-smtg {
+  background-color: #B81CEA !important;
+  color: #fff !important;
+}
+
+.btn-smtg:hover {
+  background-color: #940DBF !important;
+  color: #fff !important;
+}
+
+.btn-smtg2 {
+  border: 1px solid #B81CEA !important;
+}
+
+.btn-smtg2:hover {
+  background-color: #940DBF !important;
+  color: #fff !important;
+}
+
+.form-outline .form-control {
+  border: 1px solid #eee !important;
+}
